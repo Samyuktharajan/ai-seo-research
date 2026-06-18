@@ -22,6 +22,4 @@ We selected 10 experts who:
 7. Lily Ray – Amsive Digital  
 8. Brian Dean – Backlinko  
 9. Matt Diggity – Diggity Marketing  
-10. Ryan Stewart – Webris  
-
-## Repository Structure
+10. Ryan Stewart – Webris
