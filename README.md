@@ -1,6 +1,8 @@
 # AI-Powered SEO Content Production Research
+This project explores how AI is reshaping SEO and content workflows, with a focus on LinkedIn organic growth for B2B SaaS.
 
-# AI-SEO-Research
+## Repository: AI-SEO-Research
+This repo organizes research from 10 leading experts across LinkedIn posts, YouTube transcripts, and blogs/newsletters.
 
 This repository collects insights from 10 leading voices in SEO, growth, and B2B SaaS content strategy.  
 The goal is to build a structured research base (LinkedIn posts, YouTube transcripts, blogs/newsletters) that can later support a practical playbook for LinkedIn organic growth in B2B SaaS.
