@@ -1,25 +1,51 @@
 # AI-Powered SEO Content Production Research
 
-## Overview
-This repository collects research on how leading practitioners are using AI to transform SEO content production. The goal is to build a structured knowledge base that can later support a practical playbook for B2B SaaS companies.
+# AI-SEO-Research
 
-## Why This Topic?
-AI is reshaping SEO at every level: keyword research, content generation, optimization, and scaling. For B2B SaaS, where inbound marketing is critical, understanding how experts apply AI in real workflows is essential. This project focuses on practitioners who actively share their methods through LinkedIn, YouTube, podcasts, and blogs.
+This repository collects insights from 10 leading voices in SEO, growth, and B2B SaaS content strategy.  
+The goal is to build a structured research base (LinkedIn posts, YouTube transcripts, blogs/newsletters) that can later support a practical playbook for LinkedIn organic growth in B2B SaaS.
 
-## Expert Selection
+---
+
+## Why These Experts?
+
 We selected 10 experts who:
-- Actively practice what they teach (agency founders, consultants, SaaS entrepreneurs).
-- Publish recent, high-signal content on AI + SEO.
-- Represent diverse perspectives (technical SEO, content ops, affiliate SEO, SaaS recruiting).
+- Actively practice what they teach (agency founders, consultants, SaaS operators).
+- Share content consistently across LinkedIn, YouTube, and blogs/newsletters.
+- Are recognized thought leaders in SEO, growth, and content marketing.
+- Provide actionable frameworks, not just theory.
 
-### Expert List
-1. Alex Kravets – 100Hires  
-2. Gael Breton – Authority Hacker  
-3. Aleyda Solis – Crawling Mondays  
-4. Kevin Indig – Growth Memo  
-5. Ross Hudgens – Siege Media  
-6. Marie Haynes – Search News You Can Use  
-7. Lily Ray – Amsive Digital  
-8. Brian Dean – Backlinko  
-9. Matt Diggity – Diggity Marketing  
-10. Ryan Stewart – Webris
+This ensures the research is high-signal and practical.
+
+---
+
+## Experts Included
+
+1. Alex Kravets – Founder & CEO (Recruiting SaaS, LinkedIn organic growth)  
+2. Gael Breton – Co-founder, Authority Hacker (SEO authority building)  
+3. Aleyda Solis – Founder, Orainti (Technical SEO, Crawling Mondays)  
+4. Kevin Indig – Growth Advisor (Topical authority, SaaS growth)  
+5. Ross Hudgens – Founder, Siege Media (Content marketing, AI in SEO)  
+6. Marie Haynes – SEO Consultant (Google updates, agentic search)  
+7. Lily Ray – SEO Director, Amsive Digital (E-E-A-T, trust signals)  
+8. Brian Dean – Founder, Backlinko (SEO frameworks, evergreen strategies)  
+9. Matt Diggity – Founder, Diggity Marketing (Affiliate SEO, AI workflows)  
+10. Ryan Stewart – Founder, Webris (Agency scaling, process automation)  
+
+---
+
+## Repository Structure
+
+- `/research/sources.md` → List of experts with links and annotations  
+- `/research/linkedin-posts/` → LinkedIn posts organized by expert  
+- `/research/youtube-transcripts/` → YouTube transcripts organized by video  
+- `/research/other/` → Blogs, newsletters, podcasts organized by expert  
+- `README.md` → Overview and rationale  
+
+---
+
+## Next Steps
+
+- Continue expanding transcripts and posts with more recent content.  
+- Annotate each source with key takeaways for building a LinkedIn playbook.  
+- Commit regularly to maintain a clear research history.
